@@ -2,7 +2,7 @@
 
 Click app is my first app in flutter. 
 
-
+<div align="center"><img src="https://github.com/andygeek/click_app/blob/master/img_app.gif" width="280" height="510" align="middle"/></div>
 
 ## Getting Started
 
