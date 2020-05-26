@@ -1,6 +1,8 @@
-# click_app
+# Click app
 
-A new Flutter project.
+Click app is my first app in flutter. 
+
+
 
 ## Getting Started
 
